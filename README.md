@@ -6,7 +6,8 @@ Project Overview
   2-TestNG
   3-Maven
   4-POM(Page Object model)
-  5-Allure Report with failures screenshots
+  5-Data Driven with excel sheet
+  6-Allure Report with failures screenshots
 
 
   **methods**:
